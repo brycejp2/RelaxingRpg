@@ -53,6 +53,12 @@ dotnet run --project src/RelaxingRpg  # launch the game (needs a display)
 In the game: press **Enter/Space** at the title, walk with **WASD / arrow keys**,
 **Esc** to quit. The in-game clock ticks and is shown in the window title.
 
+## Continuing locally
+
+Cloning fresh or moving from a Claude Code web session to your own machine? See
+[`docs/LOCAL_SETUP.md`](docs/LOCAL_SETUP.md) for prerequisites, the branch to check
+out, and how to resume development with Claude Code locally.
+
 ## Roadmap
 
 See [`docs/PLAN.md`](docs/PLAN.md) for the full phased plan. Current status:
