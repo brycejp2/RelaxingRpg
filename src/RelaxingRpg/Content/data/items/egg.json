@@ -1,0 +1,8 @@
+{
+  "id": "egg",
+  "displayName": "Egg",
+  "sprite": "sprites/items/egg",
+  "category": "animal_product",
+  "stackSize": 99,
+  "sellPrice": 50
+}

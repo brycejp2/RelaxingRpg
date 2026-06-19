@@ -1,0 +1,8 @@
+{
+  "id": "parsnip",
+  "displayName": "Parsnip",
+  "sprite": "sprites/items/parsnip",
+  "category": "crop",
+  "stackSize": 99,
+  "sellPrice": 35
+}

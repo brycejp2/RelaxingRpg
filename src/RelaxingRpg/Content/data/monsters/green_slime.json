@@ -1,0 +1,16 @@
+{
+  "id": "green_slime",
+  "displayName": "Green Slime",
+  "sprite": "sprites/creatures/green_slime",
+  "maxHealth": 24,
+  "moveSpeed": 40,
+  "damage": 3,
+  "ai": "wander_and_chase",
+  "animations": {
+    "idle": [0, 1],
+    "move": [2, 3, 4, 5]
+  },
+  "drops": [
+    { "item": "slime_goo", "chance": 0.75, "min": 1, "max": 2 }
+  ]
+}

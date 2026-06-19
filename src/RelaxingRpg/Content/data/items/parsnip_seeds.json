@@ -1,0 +1,8 @@
+{
+  "id": "parsnip_seeds",
+  "displayName": "Parsnip Seeds",
+  "sprite": "sprites/items/parsnip_seeds",
+  "category": "seed",
+  "stackSize": 99,
+  "sellPrice": 10
+}

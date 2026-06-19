@@ -1,0 +1,16 @@
+{
+  "id": "chicken",
+  "displayName": "Chicken",
+  "sprite": "sprites/creatures/chicken",
+  "moveSpeed": 24,
+  "happinessFromPetting": 8,
+  "animations": {
+    "idle": [0, 1],
+    "walk": [2, 3, 4, 5]
+  },
+  "produces": {
+    "item": "egg",
+    "everyDays": 1,
+    "requiresFed": true
+  }
+}

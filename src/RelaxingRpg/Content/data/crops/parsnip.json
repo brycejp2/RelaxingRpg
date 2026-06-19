@@ -1,0 +1,11 @@
+{
+  "id": "parsnip_crop",
+  "displayName": "Parsnip",
+  "sprite": "sprites/crops/parsnip",
+  "season": "spring",
+  "seedItem": "parsnip_seeds",
+  "growthStageDays": [1, 1, 1, 1],
+  "harvestItem": "parsnip",
+  "harvestYield": 1,
+  "regrows": false
+}

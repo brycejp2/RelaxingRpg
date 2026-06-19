@@ -1,0 +1,8 @@
+{
+  "id": "slime_goo",
+  "displayName": "Slime Goo",
+  "sprite": "sprites/items/slime_goo",
+  "category": "monster_drop",
+  "stackSize": 99,
+  "sellPrice": 5
+}
